@@ -1,0 +1,10 @@
+Modifying user role in user profile
+
+Target Goal: Access admin panel and use it to delete user: CARLOS
+
+credentials: wiener:peter
+
+Steps to script:
+Login as wiener user
+Change user's role id to 2
+Access admin panel and delete user carlos
