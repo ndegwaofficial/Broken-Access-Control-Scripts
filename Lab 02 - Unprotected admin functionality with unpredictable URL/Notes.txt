@@ -1,0 +1,5 @@
+Unprotected admin functionality with unpredictable URL
+
+GOAL: Find the admin panel and delete the user 'carlos'
+
+Analysis:
